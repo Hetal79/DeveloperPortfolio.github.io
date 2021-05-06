@@ -348,7 +348,7 @@ footer {
   .Philosophy .block,
   .follow .block,
   .contact,
-  .experience .inner-block .skills,
+  .experience .inner-block, .skills,
   .skillset,footer .block 
   
   {/* height: 100vh; */
